@@ -9,4 +9,4 @@ jobs:
       with:
         node-version: '24'
     - run: npm install
-    #S- run: npm testS
+    - run: npm test
